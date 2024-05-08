@@ -3,3 +3,4 @@ tensorflow
 opencv-python
 scikit-learn
 pillow
+captcha
